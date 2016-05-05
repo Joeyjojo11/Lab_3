@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab_3</string>
+    <string name="phone_validation">Phone Validation</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="validate">Validate</string>
+    <string name="exit">Exit</string>
+    //Game Menu
+    <string name="help">Help String</string>
+    <string name="new_game">New Game String</string>
+</resources>
+
